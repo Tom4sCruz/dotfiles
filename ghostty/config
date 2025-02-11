@@ -1,0 +1,11 @@
+font-family = Hack Nerd Font
+font-size = 13
+adjust-cell-height = 35%
+theme = Chester
+cursor-style = block
+mouse-hide-while-typing = true
+background-opacity = 0.94
+unfocused-split-fill = 111111
+window-padding-x = 6
+window-decoration = false
+shell-integration-features = no-cursor,sudo,no-title
